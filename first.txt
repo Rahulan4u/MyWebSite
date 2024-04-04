@@ -3,3 +3,4 @@ U2 remote commit test
 This is line 2
 test push
 remote commit test
+new manual conflict test u2
